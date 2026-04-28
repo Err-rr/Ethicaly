@@ -86,8 +86,8 @@ DIR = min(Group Rate) / max(Group Rate)
 
 ## 📁 Project Structure
 
+```bash
 Ethicly/
-│
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
@@ -134,6 +134,7 @@ Backend runs on:
 http://127.0.0.1:5000/
 
 ---
+```
 
 ## 📂 CSV Guidelines
 
@@ -211,7 +212,3 @@ POST /download-report
 Shivam Kumar  
 
 ---
-
-## ⭐ Support
-
-If you found this useful, consider giving it a ⭐ on GitHub!
