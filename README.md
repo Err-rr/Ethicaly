@@ -4,6 +4,8 @@
 
 Ethicly is a full-stack AI fairness audit platform that helps users identify, validate, and understand bias in datasets and model outcomes. It provides statistical fairness metrics, AI-driven explanations, comparison analysis, and professional report generation in a clean, intuitive interface.
 
+https://ethicly-123.web.app
+
 ---
 
 ## 🚀 Features
